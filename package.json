@@ -12,6 +12,12 @@
   "dependencies": {
     "astro": "^4.5.5",
     "@astrojs/check": "^0.5.9",
+    "@astrojs/ts-plugin": "^1.6.0",
+    "astro": "^4.5.5",
     "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.13.0"
   }
 }
